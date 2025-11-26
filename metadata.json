@@ -1,0 +1,7 @@
+{
+  "name": "Dungeon of Multiplication",
+  "description": "An RPG-themed math adventure for 2nd graders to master the 1-12 multiplication table. Explore dungeons, open chests, and collect treasure.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
